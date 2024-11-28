@@ -3,6 +3,8 @@ golang
 redis
 mysql
 node:20
+mongo
+# registry.cn-hangzhou.aliyuncs.com/aqcq
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
