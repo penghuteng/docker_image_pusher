@@ -4,7 +4,7 @@ redis
 mysql
 node:20
 mongo
-openjkd:17-jdk-slim
+openjdk:17-jdk-slim
 
 # registry.cn-hangzhou.aliyuncs.com/aqcq
 #支持私库
